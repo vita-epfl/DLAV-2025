@@ -16,4 +16,6 @@ homeworks/hw2/data/cifar-10-batches-py/data_batch_4
 homeworks/hw2/data/cifar-10-batches-py/data_batch_3
 homeworks/hw2/data/cifar-10-batches-py/data_batch_1
 *.pth
-*/data/*
+hw1_part2/data/*
+graded_homework/hw1_part2/data/*
+graded_homework/hw1/data/*
