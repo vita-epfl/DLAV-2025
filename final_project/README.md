@@ -131,6 +131,16 @@ Evaluate your planner in challenging real-world domains. Details to be shared at
 
 ---
 
+#### Bonus: Submission to the [NAVSIM Leaderboard](https://huggingface.co/spaces/AGC2024-P/e2e-driving-navsim)
+**Release**: 2025-05-09   
+**Deadline**: TBD
+
+**Note**: This is a bonus task and is not mandatory.
+
+Are you confident in your model's performance? Submit to the NAVSIM leaderboard and see how it stacks up against other SOTA models!
+
+---
+
 ### Final Grading Breakdown
 
 - **Milestone 1**: 30%
