@@ -12,7 +12,7 @@ This project invites you to build an end-to-end deep learning-based planner that
 
 #### 2. Dataset Overview
 
-We use a curated subset of the **nuPlan dataset**, the world’s first large-scale planning benchmark for autonomous vehicles.
+We use a curated subset of the [nuPlan dataset](https://www.nuscenes.org/nuplan) with simulated sensors, the world’s first large-scale planning benchmark for autonomous vehicles.
 
 - **Training Set**: 5,000 samples
 - **Validation Set**: 1,000 samples
@@ -22,7 +22,7 @@ Each data point is structured as a Python dictionary with the following keys:
 
 ```python
 {
-    'camera': ndarray (200, 300, 3),               # RGB image at time step 21
+    'camera': ndarray (200, 300, 3),               # RGB image simulated at time step 21 
     'depth': ndarray (200, 300, 1),                # Depth image at time step 21
     'driving_command': str,                        # One of ['forward', 'left', 'right']
     'sdc_history_feature': ndarray (21, 3),        # [x, y, heading] from past 21 steps
