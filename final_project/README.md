@@ -99,7 +99,7 @@ Implement an end-to-end model that predicts future trajectories based on:
 👉 **Reference**: [Colab Starter Code](https://colab.research.google.com/drive/16u0e_gKDLL4cPmCxYaRqdxp9bWKj-Buv?usp=sharing)
 
 ##### Deliverables
-- [**80%**] Kaggle Submission: Submit to [Kaggle Leaderboard](https://www.kaggle.com/competitions/dlav-phase-1/overview)
+- [**80%**] Kaggle Submission: Submit to [Kaggle Leaderboard](https://www.kaggle.com/competitions/phase1/leaderboard)
   - **Full score**: ADE < 2
   - **Zero score**: ADE > 4
   - **Formula**: `Score = 100 * (4 - ADE) / 2`
