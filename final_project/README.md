@@ -119,7 +119,28 @@ Implement an end-to-end model that predicts future trajectories based on:
 **Release**: 2025-04-25  
 **Deadline**: 2025-05-16, 11:59 PM
 
-Enhance your model by introducing perception-based auxiliary tasks (e.g., semantic segmentation, depth estimation). More details will be released with the milestone.
+Enhance your model by introducing perception-based auxiliary tasks (e.g., semantic segmentation, depth estimation).
+
+👉 **Reference**: [Colab Starter Code](https://colab.research.google.com/drive/1Jpr07VUO_ZjF2YOuxr9lKO3U9jvZ6q2-?usp=sharing)
+
+##### Deliverables & Grading (To be determined)
+
+[//]: # (- [**80%**] Kaggle Submission: Submit to [Kaggle Leaderboard]&#40;https://www.kaggle.com/t/338eec1b2cd346eaa3b569340ab2de19&#41;)
+
+[//]: # (  - **Full score**: ADE < 2)
+
+[//]: # (  - **Zero score**: ADE > 4)
+
+[//]: # (  - **Formula**: `Score = 100 * &#40;4 - ADE&#41; / 2`)
+
+[//]: # ()
+[//]: # (- [**20%**] Code Submission:)
+
+[//]: # (  - Push to GitHub under the **VITA student projects** org)
+
+[//]: # (  - Ask your TA to add your GitHub account)
+
+[//]: # (  - Include a README that explains structure and how to run/train/infer)
 
 ---
 
