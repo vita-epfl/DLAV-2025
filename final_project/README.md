@@ -126,7 +126,7 @@ Enhance your model by introducing perception-based auxiliary tasks (e.g., semant
 
 ##### Deliverables & Grading
 
-- [**80%**] Kaggle Submission: Submit to [Kaggle Leaderboard](new)
+- [**80%**] Kaggle Submission: Submit to [Kaggle Leaderboard](https://www.kaggle.com/t/a7295af1cfa349eeb57d08538d44cf58)
   - **Full score**: ADE < 1.60
   - **Zero score**: ADE > 2.00
   - **1.5 < ADE < 2.0:** `Score = 250 * (2.0 - ADE) `
