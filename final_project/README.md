@@ -146,8 +146,24 @@ Enhance your model by introducing perception-based auxiliary tasks (e.g., semant
 **Release**: 2025-05-09  
 **Deadline**: 2025-05-23, 11:59 PM
 
-Evaluate your planner in challenging real-world domains. Details to be shared at release.
+Evaluate your planner in challenging real-world domains. Details can be found here: [Colab Starter Code](https://colab.research.google.com/drive/1apQZtbgvS2lUxp0khlbBTeq_jfyipL-d?usp=sharing). Kaggle submissions will be released soon.
 
+Note: 
+1. There is no depth label and semantic label in phase 3.
+2. Try to use data augmentation to improve the performance.
+
+
+- [**80%**] Kaggle Submission: Submit to [Kaggle Leaderboard](https://www.kaggle.com/t/a7295af1cfa349eeb57d08538d44cf58)
+  - **Full score**: ADE < 1.8
+  - **Zero score**: ADE > 2
+  - **Formula**: `Score = 100 * (2 - ade) / 0.2`
+
+
+- [**20%**] Code Submission:
+
+  - Push to GitHub under the **[VITA student projects](https://github.com/vita-student-projects)** (Ask your TA to add your GitHub account)
+
+  - Include a README that explains the structure and how to run/train/infer
 ---
 
 #### Bonus: Submission to the [NAVSIM Leaderboard](https://huggingface.co/spaces/AGC2024-P/e2e-driving-navsim)
@@ -157,6 +173,8 @@ Evaluate your planner in challenging real-world domains. Details to be shared at
 **Note**: This is a bonus task and is not mandatory.
 
 Are you confident in your model's performance? Submit to the NAVSIM leaderboard and see how it stacks up against other SOTA models!
+
+Contact Lan for more details (lan.feng@epfl.ch) if you are interested in this task.
 
 ---
 
