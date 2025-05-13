@@ -153,7 +153,7 @@ Note:
 2. Try to use data augmentation to improve the performance.
 
 
-- [**80%**] Kaggle Submission: Submit to [Kaggle Leaderboard](https://www.kaggle.com/t/a7295af1cfa349eeb57d08538d44cf58)
+- [**80%**] Kaggle Submission: Submit to [Kaggle Leaderboard](https://www.kaggle.com/t/802ad533a6d2477e91fd72c9a030ff15)
   - **Full score**: ADE < 1.8
   - **Zero score**: ADE > 2
   - **Formula**: `Score = 100 * (2 - ade) / 0.2`
